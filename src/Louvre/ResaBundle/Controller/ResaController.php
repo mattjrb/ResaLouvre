@@ -4,6 +4,8 @@ namespace Louvre\ResaBundle\Controller;
 
 use Louvre\ResaBundle\Entity\Reservation;
 use Louvre\ResaBundle\Form\ReservationType;
+use Louvre\ResaBundle\Entity\Visiteur;
+use Louvre\ResaBundle\Form\VisiteurType;
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Symfony\Component\HttpFoundation\Request;
 
